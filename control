@@ -1,0 +1,10 @@
+Package: com.trc.supervisor
+Name: Supervisor
+Depends: mobilesubstrate, firmware (>= 15.0)
+Priority: optional
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Supervise your device
+Maintainer: Clarity
+Author: Clarity
+Section: Tweaks

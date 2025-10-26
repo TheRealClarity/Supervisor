@@ -1,0 +1,13 @@
+{
+	Filter = {
+		Executables = (
+			softwareupdatesd,
+			softwareupdateservicesd,
+			cfprefsd,
+            ManagedSettingsAgent
+		);
+		Bundles = (
+			"com.apple.Settings"
+		);
+	};
+}

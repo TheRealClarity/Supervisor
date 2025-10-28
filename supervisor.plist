@@ -3,8 +3,8 @@
 		Executables = (
 			softwareupdatesd,
 			softwareupdateservicesd,
-			cfprefsd,
-            ManagedSettingsAgent
+            ManagedSettingsAgent,
+			profiled
 		);
 		Bundles = (
 			"com.apple.Settings"
